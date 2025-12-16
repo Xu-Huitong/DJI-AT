@@ -1,0 +1,4315 @@
+{
+    "average ground sampling distance(GSD)": 0.019972431922262123,
+    "average track length": 5.382177352905273,
+    "cameras": [
+        {
+            "calibrate date": "2025-10-19",
+            "calibrate id": "zddizOv",
+            "camera model": "M3E_WideCamera",
+            "camera param difference": {
+                "cx": -0.9639428530385885,
+                "cy": -1.8226486882460904,
+                "fx": -1.07299703323406,
+                "fy": -1.07299703323406,
+                "k1": 0.006478232539002107,
+                "k2": -0.018057469677088198,
+                "k3": 0.012801530452990687,
+                "k4": 0.0,
+                "p1": -0.000262225895987719,
+                "p2": -0.0004080755364067306
+            },
+            "camera precalibrated": true,
+            "camera resolution": "5280*3956",
+            "camera sn": "1581F5FHC247300DUCRS",
+            "camera type": 0,
+            "fix params type": 0,
+            "height": 3956,
+            "initial camera param": {
+                "cx": 2647.02,
+                "cy": 1969.28,
+                "fx": 3713.29,
+                "fy": 3713.29,
+                "k1": -0.11257524,
+                "k2": 0.01487443,
+                "k3": -0.02706411,
+                "k4": 0.0,
+                "p1": -8.572e-05,
+                "p2": 1e-07
+            },
+            "optimised camera param": {
+                "cx": 2646.0560571469614,
+                "cy": 1967.4573513117539,
+                "fx": 3712.217002966766,
+                "fy": 3712.217002966766,
+                "k1": -0.10609700746099789,
+                "k2": -0.0031830396770881997,
+                "k3": -0.014262579547009312,
+                "k4": 0.0,
+                "p1": -0.000347945895987719,
+                "p2": -0.0004079755364067306
+            },
+            "optimised cameras": [
+                {
+                    "camera param difference": {
+                        "cx": -0.9639428530385885,
+                        "cy": -1.8226486882460904,
+                        "fx": -1.07299703323406,
+                        "fy": -1.07299703323406,
+                        "k1": 0.006478232539002107,
+                        "k2": -0.018057469677088198,
+                        "k3": 0.012801530452990687,
+                        "k4": 0.0,
+                        "p1": -0.000262225895987719,
+                        "p2": -0.0004080755364067306
+                    },
+                    "corelation matrix": [
+                        1.0,
+                        -0.006391842122496658,
+                        0.11169755658991927,
+                        -0.12364733227573936,
+                        0.042208297793999185,
+                        -0.06895521652550483,
+                        -0.10624337862693141,
+                        0.003806416450817586,
+                        -0.006391842123850202,
+                        1.0,
+                        -0.0013701885326321973,
+                        0.021330880161924155,
+                        -0.03611888556288461,
+                        0.04760823967970482,
+                        0.07841555579201122,
+                        -0.31547173777885884,
+                        0.11169755659797444,
+                        -0.0013701885329618975,
+                        1.0,
+                        -0.029385010728644335,
+                        0.004375701707421386,
+                        -0.015163940749533056,
+                        -0.45079131930045807,
+                        0.04417790284252852,
+                        -0.12364733227572537,
+                        0.0213308801641911,
+                        -0.029385010728102817,
+                        1.0,
+                        -0.9473412395446221,
+                        0.8774458507529181,
+                        -0.07258400301939552,
+                        0.0026069546158878584,
+                        0.04220829779434313,
+                        -0.03611888555990593,
+                        0.004375701706051124,
+                        -0.9473412395641879,
+                        1.0,
+                        -0.9773798721616754,
+                        0.072046366079157,
+                        -0.012724729027851869,
+                        -0.06895521652613332,
+                        0.047608239678891655,
+                        -0.015163940748245418,
+                        0.877445850774725,
+                        -0.9773798721650365,
+                        1.0,
+                        -0.057984327706291985,
+                        0.023301504631202657,
+                        -0.1062433786308904,
+                        0.07841555579504764,
+                        -0.4507913192929379,
+                        -0.07258400301868566,
+                        0.0720463660762395,
+                        -0.057984327703392374,
+                        1.0,
+                        -0.013067066990531452,
+                        0.003806416448991804,
+                        -0.31547173774965476,
+                        0.044177902838892426,
+                        0.0026069546174922894,
+                        -0.0127247290278732,
+                        0.023301504631910563,
+                        -0.013067066988275545,
+                        1.0
+                    ],
+                    "optimised camera param": {
+                        "cx": 2646.0560571469614,
+                        "cy": 1967.4573513117539,
+                        "fx": 3712.217002966766,
+                        "fy": 3712.217002966766,
+                        "k1": -0.10609700746099789,
+                        "k2": -0.0031830396770881997,
+                        "k3": -0.014262579547009312,
+                        "k4": 0.0,
+                        "p1": -0.000347945895987719,
+                        "p2": -0.0004079755364067306
+                    },
+                    "standard deviation": [
+                        0.17822799796682876,
+                        0.1952797766795521,
+                        0.2703600531548677,
+                        7.581587921743691e-05,
+                        0.0001981887857923279,
+                        0.0001549256859012233,
+                        8.818754161438054e-06,
+                        7.680733564142753e-06
+                    ]
+                }
+            ],
+            "photos number": 226,
+            "reprojection error image": "reprojection_error_0.jpg",
+            "width": 5280
+        }
+    ],
+    "coverage area": 0.0570424140625,
+    "dewarped image num": 0,
+    "feature quantity level": 3,
+    "flying altitude": -11.398568153381348,
+    "generate xml": false,
+    "georeferencing rmse": 10.676583290100098,
+    "georeferencing x errors": {
+        "mae": 2.9850940704345703,
+        "max": 0.7519165873527527,
+        "min": -17.77468490600586,
+        "rmse": 6.0408806800842285
+    },
+    "georeferencing xy errors": {
+        "mae": 3.9695394039154053,
+        "max": 20.139575958251953,
+        "min": 0.0005238295998424292,
+        "rmse": 7.84043550491333
+    },
+    "georeferencing xyz errors": {
+        "mae": 5.694374084472656,
+        "max": 24.43475914001465,
+        "min": 0.00306226615794003,
+        "rmse": 10.676583290100098
+    },
+    "georeferencing y errors": {
+        "mae": 2.4966177940368652,
+        "max": 0.20952558517456055,
+        "min": -13.564614295959473,
+        "rmse": 4.998018741607666
+    },
+    "georeferencing z errors": {
+        "mae": 3.919355630874634,
+        "max": 16.367952346801758,
+        "min": -2.2193310260772705,
+        "rmse": 7.24686336517334
+    },
+    "hardware information": {
+        "cpu model": "Intel Core(TM) i9-14900HX 32 cores",
+        "gpu names": [
+            "NVIDIA GeForce RTX 4070 Laptop GPU"
+        ],
+        "total ram": 65146
+    },
+    "image with position": 386,
+    "images": [
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "0103aa85535c49878f88eed54db428557147d16f",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1583,
+            "id": "01560832f996c1878f4c068c734df087f21e917a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 21.409805297851563,
+                "residual_x": -16.320756912231445,
+                "residual_y": -9.185592651367188,
+                "residual_z": 10.374853134155273
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 697,
+            "id": "0174542bef48c329d4c86c54034c12bbe9ec46e0",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.02308792993426323,
+                "residual_x": 0.005034112371504307,
+                "residual_y": 0.016531866043806076,
+                "residual_z": 0.015310375019907951
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "0195dbdd25163780f4b902bb117b2ec5b48047d9",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 718,
+            "id": "022cdb649f887f65c9d8b548478ea36165188e10",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.004669083282351494,
+                "residual_x": -0.004190994426608086,
+                "residual_y": -0.0011787518160417676,
+                "residual_z": 0.0016871419502422214
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1411,
+            "id": "02cc569e3fafe2d0c14f00295725031666d12571",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.383373260498047,
+                "residual_x": -8.636509895324707,
+                "residual_y": -5.852705001831055,
+                "residual_z": 16.33620834350586
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1144,
+            "id": "02cf6f9f522752458ea228fa445f2c7453ee41c9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.00521945022046566,
+                "residual_x": -0.0011839298531413078,
+                "residual_y": -0.0010471303248777986,
+                "residual_z": 0.004974383395165205
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 905,
+            "id": "046798818f53994afa01dfc951b9c6ee8edd800f",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.014136018231511116,
+                "residual_x": -0.0027032941579818726,
+                "residual_y": -0.0032484685070812702,
+                "residual_z": -0.013489501550793648
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "0499a3e8bf07998f8ccf7dc1555e69f67f9bed56",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1206,
+            "id": "05ce2250113341f4b61d4a761f17d6530042828c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.01174697745591402,
+                "residual_x": 0.002880734158679843,
+                "residual_y": -0.004871209152042866,
+                "residual_z": 0.010293890722095966
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 967,
+            "id": "093a8094274242e3feaef7447482f8af33db2310",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.01213404443114996,
+                "residual_x": 0.0017241371097043157,
+                "residual_y": 0.005864012986421585,
+                "residual_z": -0.010482163168489933
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "09a61d15fec590133192e26fd4d3cb7d9025372d",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1768,
+            "id": "09c51d14aa241fb755a8bd67568679eb8f4452e1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9685583114624023,
+                "residual_x": 0.0879991203546524,
+                "residual_y": 0.12697052955627441,
+                "residual_z": 0.9561589360237122
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1830,
+            "id": "09ca56449887ac8a0f5d1a226fb3f3b169b16f4d",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.410537987947464,
+                "residual_x": 0.24238808453083038,
+                "residual_y": -0.137886181473732,
+                "residual_z": -0.3012920022010803
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1567,
+            "id": "0a13f726903a216d59b4872922d6225734645f36",
+            "reconstructed": true,
+            "residual": {
+                "residual": 24.004695892333984,
+                "residual_x": -17.390037536621094,
+                "residual_y": -9.512677192687988,
+                "residual_z": 13.539608001708984
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 883,
+            "id": "0ac9e10b0b7cbd1b4ba6a03aa9f72e60947913a5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.0239455234259367,
+                "residual_x": -0.005304515361785889,
+                "residual_y": -0.005588171072304249,
+                "residual_z": -0.02267206460237503
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1359,
+            "id": "0c9d673c121aa136afd2e64cafdebbc2b306e835",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.8440341949462891,
+                "residual_x": 0.10235176980495453,
+                "residual_y": -0.25399237871170044,
+                "residual_z": 0.7983769178390503
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1122,
+            "id": "0d1c52d4308a42430b9d34ec19c89e259d8491c5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.02814038097858429,
+                "residual_x": 0.001260319259017706,
+                "residual_y": -0.001785802305676043,
+                "residual_z": 0.02805536426603794
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "0d278b76d6c84daa3e0fae92693f36f2d5525193",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1178,
+            "id": "0dde0f47053c90ae26d0e85b65891f40d9860fe9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.008665910921990871,
+                "residual_x": -0.00025828054640442133,
+                "residual_y": -0.00192388950381428,
+                "residual_z": -0.008445706218481064
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 713,
+            "id": "0e645e13899bb7932e1e59d35139ec81882f0add",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.006524172145873308,
+                "residual_x": -0.004556872416287661,
+                "residual_y": -0.0013390465173870325,
+                "residual_z": -0.0044728838838636875
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1016,
+            "id": "0e6a19a05c42cda7448436f102f8ef170c1c1514",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.014046648517251015,
+                "residual_x": -0.0010401627514511347,
+                "residual_y": -0.006230220664292574,
+                "residual_z": -0.012546343728899956
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 785,
+            "id": "0e82590e561ea59f5abd2f7418d1670de17781b9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 18.7288875579834,
+                "residual_x": -7.636655807495117,
+                "residual_y": -5.645569801330566,
+                "residual_z": 16.142498016357422
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "0f609b7771ba2b44028e46e6ebfa72949e220aca",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1041,
+            "id": "100d2c6e1cbba102987f2e179532c687f46a5e65",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.2229735851287842,
+                "residual_x": 0.07227511703968048,
+                "residual_y": -0.08078764379024506,
+                "residual_z": -1.2181601524353027
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1605,
+            "id": "100d5e61a4d2e39874ded59aa5ca8a2f6030418d",
+            "reconstructed": true,
+            "residual": {
+                "residual": 21.817745208740234,
+                "residual_x": -16.613508224487305,
+                "residual_y": -9.433711051940918,
+                "residual_z": 10.536149024963379
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1650,
+            "id": "107c3391925e2125af0b69bf3325882cedda5a79",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.354536056518555,
+                "residual_x": -16.906789779663086,
+                "residual_y": -9.657710075378418,
+                "residual_z": 10.982457160949707
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1538,
+            "id": "10e7e4ff9559ebe30e02903cfcff37571961e48a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.2087011337280273,
+                "residual_x": -0.09113828837871552,
+                "residual_y": 0.15591666102409363,
+                "residual_z": -1.1951327323913574
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1175,
+            "id": "11263f7b16cc06933e3cdf2ab889457eafaf68d3",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.1590576171875,
+                "residual_x": -8.200933456420898,
+                "residual_y": -5.648388385772705,
+                "residual_z": 16.367952346801758
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1092,
+            "id": "11515c34b80089d10b05d9d07c9c3d2b1bc947f0",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.2630820274353027,
+                "residual_x": 0.05204178765416145,
+                "residual_y": -0.008438492193818092,
+                "residual_z": 1.2619812488555908
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1121,
+            "id": "124550ee3a0c36fe2eea2d932e7a2d942d8e20a8",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.281779408454895,
+                "residual_x": -0.10149399936199188,
+                "residual_y": 0.04689125344157219,
+                "residual_z": 0.2586499750614166
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1682,
+            "id": "12933a941960202787ae658c6e45f8ac29820137",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.13884162902832,
+                "residual_x": -8.258550643920898,
+                "residual_y": -5.966996192932129,
+                "residual_z": 16.20143699645996
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1192,
+            "id": "13a9c2a1a25b8499504244c40a7a50f93fe68486",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.912795901298523,
+                "residual_x": 0.04328179731965065,
+                "residual_y": 0.20952558517456055,
+                "residual_z": -0.8873680830001831
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1120,
+            "id": "140c2361f7f857ab1150375ca0738c8feb4b3d15",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.5838420987129211,
+                "residual_x": 0.101035475730896,
+                "residual_y": 0.13844004273414612,
+                "residual_z": 0.5581198334693909
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "14a8a4603168ca4847ea20b1a571839fcb65a6b3",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 881,
+            "id": "1545630c3d6625a62e3f13ee5327197ff78a298b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.031523510813713074,
+                "residual_x": -0.004776870831847191,
+                "residual_y": 0.011733807623386383,
+                "residual_z": -0.028865739703178406
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1083,
+            "id": "157d37d7b42fdbdfcde07da7ad351e716e4db67f",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6360907554626465,
+                "residual_x": -0.008722096681594849,
+                "residual_y": 0.07345281541347504,
+                "residual_z": 0.6317753195762634
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1051,
+            "id": "15ac14455d9a4290a7e6d39c1aa3fa768357d0d3",
+            "reconstructed": true,
+            "residual": {
+                "residual": 2.1775143146514893,
+                "residual_x": 0.1568048745393753,
+                "residual_y": 0.00486715929582715,
+                "residual_z": -2.1718556880950928
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1442,
+            "id": "15bd1607e92edec9dade56523ef8a3271c946c46",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.106274962425232,
+                "residual_x": 0.5174849629402161,
+                "residual_y": -0.2967661917209625,
+                "residual_z": 0.9316563010215759
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "184d0f4e312ec6678f030319f08976c6e19ce2ad",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 597,
+            "id": "1a264242cedccab7b9943f20ecaca9c0e8e58e17",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.979151725769043,
+                "residual_x": 0.04667380452156067,
+                "residual_y": -0.12874160706996918,
+                "residual_z": 0.9695283770561218
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "1aa13da61d56295cd43c00fe82baecb2cf98c487",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1101,
+            "id": "1b22e2501680c3a99eeb9e6aeb2c7d0aeefc5a7b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.006123373284935951,
+                "residual_x": 0.0026760112959891558,
+                "residual_y": -0.002834087470546365,
+                "residual_z": -0.0047225640155375
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1230,
+            "id": "1c169a6a254cd8310ccde64f06304ca4bef34310",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.019123954698443413,
+                "residual_x": 0.004440649412572384,
+                "residual_y": -0.006275273859500885,
+                "residual_z": 0.017510775476694107
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1259,
+            "id": "1c2d9da4bb22e912da4d1e2dfc8fa9ed8f7a37ce",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.8758760094642639,
+                "residual_x": -0.1406642198562622,
+                "residual_y": 0.01593855582177639,
+                "residual_z": -0.8643600344657898
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 800,
+            "id": "1c7b19378c4a6ea97d4fbe9eac50d58c790e03d1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.254549026489258,
+                "residual_x": -6.886767387390137,
+                "residual_y": -11.639716148376465,
+                "residual_z": 13.705002784729004
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 806,
+            "id": "1cd7036e06c56937061db335d5936c8804485640",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9028805494308472,
+                "residual_x": 0.7201317548751831,
+                "residual_y": -0.5289004445075989,
+                "residual_z": -0.12987631559371948
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1122,
+            "id": "1d46b406e96435b46ee474d71126e5b0c29d7351",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.3458351194858551,
+                "residual_x": 0.09777884185314178,
+                "residual_y": -0.19681236147880554,
+                "residual_z": 0.26703205704689026
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "1d6a6ea014ba3852d112e11da4aaeb2b5758df11",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "1e030826cd9aec6b5918293f42db427e5036f362",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1294,
+            "id": "1e89bd1686e8ebf70b550b090150c251f3bbc8f8",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9272069334983826,
+                "residual_x": -0.20588621497154236,
+                "residual_y": 0.15125027298927307,
+                "residual_z": -0.8913174867630005
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "1e8fef5a1858fb952127f3af9fc781cae9873d97",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1662,
+            "id": "1ebfda90e03778b4c22ee10a0206161c141ad4c9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9776211977005005,
+                "residual_x": 0.24172519147396088,
+                "residual_y": -0.10198470950126648,
+                "residual_z": 0.9417596459388733
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1250,
+            "id": "1f8a76a6f5c66b8905ee848e65ea7a233d173333",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.1293737292289734,
+                "residual_x": 0.02591577358543873,
+                "residual_y": -0.12528380751609802,
+                "residual_z": -0.019232867285609245
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1483,
+            "id": "2050cd43e487ae513756f7964d6a07e42a603b45",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.5557864904403687,
+                "residual_x": -0.12462210655212402,
+                "residual_y": 0.18910707533359528,
+                "residual_z": -1.5392138957977295
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1105,
+            "id": "220e12aea795fe0fc66e5675b388f8b1cc57e405",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.11177334189414978,
+                "residual_x": -0.06043076142668724,
+                "residual_y": 0.09176749736070633,
+                "residual_z": 0.020497070625424385
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "24e4b1f4a7fcb4d159bb6d3a54dc634438c3329e",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 947,
+            "id": "25fdfc1024a22a2de933b610f01b2ea86a9178d1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.19036658108234406,
+                "residual_x": -0.14499405026435852,
+                "residual_y": -0.002023391891270876,
+                "residual_z": -0.12333719432353973
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1180,
+            "id": "264a59b5480bb9dbb5074020003959603791ec48",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.1579484939575195,
+                "residual_x": 0.10503453761339188,
+                "residual_y": -0.16407598555088043,
+                "residual_z": 1.1414427757263184
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "26a84cd580544425d21588eba9b7078469a09457",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1130,
+            "id": "271003154aa666f0e988deb2c947b34cdd8b8ab6",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.7274290323257446,
+                "residual_x": 0.1371123343706131,
+                "residual_y": 0.08778395503759384,
+                "residual_z": 0.708976149559021
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1547,
+            "id": "2720b3dab64c64c77f37ec162b6a8a3f373b442c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.138532638549805,
+                "residual_x": -9.074479103088379,
+                "residual_y": -11.90701675415039,
+                "residual_z": 13.469865798950195
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1183,
+            "id": "27988081e245c328d11497ac2f6940d641c8de21",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.019642291590571404,
+                "residual_x": -0.0012703768443316221,
+                "residual_y": -0.0014372658915817738,
+                "residual_z": 0.01954840123653412
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "2a178f79b8dbdf0530bfe1f491c6087b7f4b6b5f",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1105,
+            "id": "2d899b5ffc008881d257c041f03d0a604010a179",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.12878765165805817,
+                "residual_x": -0.06383130699396133,
+                "residual_y": 0.038701318204402924,
+                "residual_z": -0.10494775325059891
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "2d951b2adff83808f0f8b364ec40e2acc0d1bbc6",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1205,
+            "id": "2e6460be3ff56f72fbd1a4240391d9147e643f6e",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.5864495635032654,
+                "residual_x": 0.06290134787559509,
+                "residual_y": -0.04911305755376816,
+                "residual_z": 0.5809943675994873
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1009,
+            "id": "2f170b2a9f39064f731b9c2721daba6d83ef6d46",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.47769495844841003,
+                "residual_x": 0.0886126160621643,
+                "residual_y": -0.16224916279315948,
+                "residual_z": -0.440471887588501
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 568,
+            "id": "2f3fa3132c82e90595467927cb5e1dbc65b54481",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.020177051424980164,
+                "residual_x": 0.005494480486959219,
+                "residual_y": 0.019201666116714478,
+                "residual_z": 0.0028670807369053364
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1267,
+            "id": "2fa4f2c4a7f6d394e1c1e5d0417f7766ab4558ed",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.821334838867188,
+                "residual_x": -13.43251895904541,
+                "residual_y": -10.831513404846191,
+                "residual_z": 14.935161590576172
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1495,
+            "id": "308215e4dc76d9076580401aa77c6ae56c3c82ea",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6390928030014038,
+                "residual_x": -0.1529514491558075,
+                "residual_y": 0.20714762806892395,
+                "residual_z": -0.5849233865737915
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 942,
+            "id": "312632a4a846319c9dd6ed685e3a0903b4108c11",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.17275118827819824,
+                "residual_x": -0.032442979514598846,
+                "residual_y": 0.04224154353141785,
+                "residual_z": 0.16433526575565338
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1146,
+            "id": "31442016d3313dbed58bcbdd1c94428becac4bb6",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.2974690198898315,
+                "residual_x": 0.07214623689651489,
+                "residual_y": -0.10259070247411728,
+                "residual_z": 1.2913930416107178
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1190,
+            "id": "33952da5a953cf5852185561f1f974ff80e3ff3e",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.833810806274414,
+                "residual_x": -13.708251953125,
+                "residual_y": -11.94789981842041,
+                "residual_z": 13.809941291809082
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 415,
+            "id": "3482060f5b984dd8235db548fe1b4260ae1b8b24",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6694507002830505,
+                "residual_x": 0.0982324406504631,
+                "residual_y": -0.19130688905715942,
+                "residual_z": 0.633968710899353
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "34e95f8c342b9515d363c442d4b555140d1d993f",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1200,
+            "id": "355031cabd4e737162112a5412b205d9f8cf6290",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.04311281442642212,
+                "residual_x": -0.01817813143134117,
+                "residual_y": -0.033326953649520874,
+                "residual_z": -0.02043488621711731
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1188,
+            "id": "35aba198f77265a7663df59ee88b958bc5097f1f",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.015561590902507305,
+                "residual_x": 0.002336110221222043,
+                "residual_y": 0.005229219328612089,
+                "residual_z": 0.014469311572611332
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "35cbab0eb69d962885e18d7e877ac71b395be94c",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "35edf3126a8f6d119511e663da3922057280f188",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 837,
+            "id": "365d962b8973abcb51d9f5ea703d8f619dd01d7d",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.2004341185092926,
+                "residual_x": -0.13947443664073944,
+                "residual_y": 0.07640303671360016,
+                "residual_z": -0.12199711054563522
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1530,
+            "id": "36659d886da7413efb147b0e8397004c114e83e7",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.70835280418396,
+                "residual_x": -0.13927914202213287,
+                "residual_y": 0.1825181245803833,
+                "residual_z": -1.6928550004959106
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 926,
+            "id": "36f61ab81c76994c7d57c236a1b36e74034dd5d1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.017725273966789246,
+                "residual_x": 0.0008914511417970061,
+                "residual_y": -0.001790591049939394,
+                "residual_z": -0.017612053081393242
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1049,
+            "id": "37a9c6a60191180ba2172f247643f61a9c6b2b67",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.014023584313690662,
+                "residual_x": -0.00036708315019495785,
+                "residual_y": -0.009705950506031513,
+                "residual_z": -0.010115369223058224
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1128,
+            "id": "39bac627f34853dbffe1e71083373565cf84e489",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.0040565668605268,
+                "residual_x": 0.0026022375095635653,
+                "residual_y": 0.0009188890107907355,
+                "residual_z": 0.0029731695540249348
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1092,
+            "id": "39d9a2f185feb43b6efb3b6ea5d0db74dc9b1249",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.4935607314109802,
+                "residual_x": -0.08593311905860901,
+                "residual_y": -0.00020575766393449157,
+                "residual_z": 0.4860222637653351
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "3a262956ae8bba5df96de6829b246b06e26f948d",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "3a3b4cf9f228537222113ff7a3def6a4f8c0d564",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1295,
+            "id": "3a57fe19ee8713f65a1e8281e0d6bd3a7cc3aa5b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.14084145426750183,
+                "residual_x": 0.04507662355899811,
+                "residual_y": -0.09082502871751785,
+                "residual_z": -0.09775084257125854
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "3bc3bee4f4cec335e26792dea5b2a3fe10afbf2d",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1339,
+            "id": "3c20e32ea02d8e04cfc29a36810bf5c2a29036a9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.587879180908203,
+                "residual_x": -9.169835090637207,
+                "residual_y": -6.073029518127441,
+                "residual_z": 16.208560943603516
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "3c34094535c353ee8cb76f53bbb1789e4acce986",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1358,
+            "id": "3c65fffed0797dca4fbe0bca21415cc2d6849052",
+            "reconstructed": true,
+            "residual": {
+                "residual": 21.716081619262695,
+                "residual_x": -15.961798667907715,
+                "residual_y": -8.451909065246582,
+                "residual_z": 12.057130813598633
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 978,
+            "id": "3e9da6c7d203164b8b76b6b4a30d26a6454148d8",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.8742446899414063,
+                "residual_x": -0.011216037906706333,
+                "residual_y": 0.0722435861825943,
+                "residual_z": -1.8728182315826416
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "3f4f6707b81b2de00d7a77f8519a2d18029c159c",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "40a5037e4445c42a671be722076f5d68e9a075a9",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "40da064f7cc345f7b6285cb59d370b03bf4a8fed",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 857,
+            "id": "423b5e79116bb3df5ff773e39cf8e5f5e164a6c0",
+            "reconstructed": true,
+            "residual": {
+                "residual": 2.2216458320617676,
+                "residual_x": 0.09436607360839844,
+                "residual_y": 0.0370795838534832,
+                "residual_z": -2.2193310260772705
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "42639da14259e41bb0c30a12ce15674351de597e",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "44f24355630160033f3a333608f4cfe819df19e8",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "476855c6954f8930676042fe28a611b6ce01ed66",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "47bc815dde15d0b7dd07bf5730f66a885b425378",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 719,
+            "id": "48111d6eb94db3c42472b9e1aeec8c1dfec5eaa5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.01877586543560028,
+                "residual_x": 0.0034808232448995113,
+                "residual_y": 0.010406563989818096,
+                "residual_z": 0.01523549947887659
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "48c6e950c79070fc4c61e32f7bfcba3b9a877045",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "48e375a4c65777a4e2ba897816cc226ff6502baa",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "4cde6ab4ac82873d22f81a87b6f79d735ba85738",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "4cedd5184be42d2f11099f339381c8f7bd4b4cfb",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 801,
+            "id": "4cf2775b99eefc8ff5593417c92651fa2e30c0e0",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.18958710134029388,
+                "residual_x": -0.04700787737965584,
+                "residual_y": 0.12164173275232315,
+                "residual_z": -0.13761112093925476
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "4db2b6c22eb8a599e68a015aed8b8004948bced8",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "4dcf4b0abb6421844a0322ec5a818ffd2f58e18a",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "4ec2a731f100643cacb5f2bd4bd99705db7d8818",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1330,
+            "id": "4f0048710d0ab78e6ca95bb007e28a7cb41f90cc",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6390206813812256,
+                "residual_x": 0.3038320541381836,
+                "residual_y": -0.25274714827537537,
+                "residual_z": 0.5021477937698364
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1262,
+            "id": "4f3e69762d67d01473507cf3a742c70e23716908",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6057640314102173,
+                "residual_x": -0.24300631880760193,
+                "residual_y": 0.13210928440093994,
+                "residual_z": -0.5389295816421509
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 945,
+            "id": "4fd2fb14159737c654845d2d7bb45127f026ac66",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.019324596971273422,
+                "residual_x": 0.0015665193786844611,
+                "residual_y": -0.0033762012608349323,
+                "residual_z": -0.018962787464261055
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1172,
+            "id": "50477297ce2f3e71119f71abf3f21812669f511a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.713513195514679,
+                "residual_x": 0.08954431116580963,
+                "residual_y": -0.01736314408481121,
+                "residual_z": 0.707659125328064
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "50711ffcef994eade799d9f758e0a826993fac15",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "5155b42e435a918a0e6ec35451bf455a4730cb72",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1102,
+            "id": "516473abb7243bf71f4c9ae721abf4068d4bc709",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.22054047882556915,
+                "residual_x": -0.15689505636692047,
+                "residual_y": 0.15197494626045227,
+                "residual_z": 0.030424674972891808
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "519296b8f8d041e7343478212d54c31f8e748936",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "520d52d74becc54ffe47265b2ead58ac78a23677",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1540,
+            "id": "5247ca3623024f890b3b690473475474a5831bc0",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.436017990112305,
+                "residual_x": -8.090328216552734,
+                "residual_y": -12.701170921325684,
+                "residual_z": 13.815126419067383
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "5328ee7c542836666c0305bf75a35a37943bcf08",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1191,
+            "id": "5330477f9ef6c0906a3708a717b4854739cd115b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.412181854248047,
+                "residual_x": -12.549543380737305,
+                "residual_y": -9.074049949645996,
+                "residual_z": 13.297658920288086
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 798,
+            "id": "541dbb991d08eb32fdfee15875d2cc1c8696ecd9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9328598380088806,
+                "residual_x": 0.7519165873527527,
+                "residual_y": -0.4975760281085968,
+                "residual_z": -0.23930533230304718
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "5446c84e44722b169ec578a1b9f21aa07249aeca",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1278,
+            "id": "54526695e681a295a6174d499bc087f234aee885",
+            "reconstructed": true,
+            "residual": {
+                "residual": 18.861696243286133,
+                "residual_x": -8.15883731842041,
+                "residual_y": -5.663820743560791,
+                "residual_z": 16.034902572631836
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "557d4f62e4ab9e950ce3862bf427fdac23cfea3e",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "567ee04390e7c2eaae36bbcbcfdeea18e9b93ac0",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1510,
+            "id": "578200cebfd6e636e51a699d6248c3090c1838c8",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9278233051300049,
+                "residual_x": -0.07366140931844711,
+                "residual_y": 0.10840556025505066,
+                "residual_z": -0.9185196161270142
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "57cbfb66cce280c84fedf798fe439fcf0290598e",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1085,
+            "id": "58873bbac0d2044315e9deb212916c384703c6df",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.685073852539063,
+                "residual_x": -7.513830661773682,
+                "residual_y": -13.556586265563965,
+                "residual_z": 13.6979398727417
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 189,
+            "id": "58b74dd6731619df0a41ce16ad2d5a86d0ad2d97",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.868377685546875,
+                "residual_x": -16.1118106842041,
+                "residual_y": -7.069145679473877,
+                "residual_z": 14.608197212219238
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1238,
+            "id": "59204e94295b76884bd31bb88677f83fabc26376",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6625644564628601,
+                "residual_x": 0.4953818917274475,
+                "residual_y": -0.4053627550601959,
+                "residual_z": -0.17108328640460968
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1120,
+            "id": "5997114f88053a0123f12df906f936d78bb61b29",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.1736317276954651,
+                "residual_x": 0.07993227988481522,
+                "residual_y": 0.15168559551239014,
+                "residual_z": 0.027391351759433746
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "5a2a79d8bd1913ad5b7e5e28b7d958007800c277",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "5a69ba62550a6406f7f852fa8f930d238eb1e7ba",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1561,
+            "id": "5af2cfd124b237f454729c3b6cad6ff7e664ebd1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.972858428955078,
+                "residual_x": -9.219009399414063,
+                "residual_y": -11.541890144348145,
+                "residual_z": 13.442831993103027
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1537,
+            "id": "5b2781c9245b161bc69a557976873417100cfa8f",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.0767651796340942,
+                "residual_x": -0.049788400530815125,
+                "residual_y": 0.16550055146217346,
+                "residual_z": -1.0628048181533813
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "5d61b4fec434941e95dd68734bd28934dc18ff90",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "5dae6c90b503c04dcf46903d92bbdabf49bec955",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1880,
+            "id": "5ecf120359985777ff29394c35834dffbe70d757",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.8480113744735718,
+                "residual_x": 0.10380473732948303,
+                "residual_y": 0.07225647568702698,
+                "residual_z": 0.8385266065597534
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1122,
+            "id": "6012a91713d14b0c6d4065fbc0adf9bda0c56c0a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.02632889896631241,
+                "residual_x": 0.003527095541357994,
+                "residual_y": -0.006109071429818869,
+                "residual_z": 0.02536631189286709
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1507,
+            "id": "62731807b6e47d26a98fec9df1fc57a891be7dcf",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.015657424926758,
+                "residual_x": -8.988917350769043,
+                "residual_y": -12.167876243591309,
+                "residual_z": 13.106056213378906
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1535,
+            "id": "63bd23ab118de43d1963c6d3c586c808552c7b47",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.295475006103516,
+                "residual_x": -7.84262228012085,
+                "residual_y": -11.795150756835938,
+                "residual_z": 13.102787017822266
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 732,
+            "id": "64608236454f7dde9d3b79559f5c760648da9318",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.006567845121026039,
+                "residual_x": -0.0003122897178400308,
+                "residual_y": -0.005425607785582542,
+                "residual_z": -0.003688068361952901
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1552,
+            "id": "64742a0281eff440adcc2498365ccaa0bfd25bb6",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.211530685424805,
+                "residual_x": -7.876091480255127,
+                "residual_y": -11.804511070251465,
+                "residual_z": 12.950043678283691
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "651863783a075dbf9752ca793e4b3957b3fce69d",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "66721636ccbb4ef45cc80887fe5a3f15741e70b1",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1189,
+            "id": "667dc327c5a6ee29fbbeaa9c69b9b023da5f2ae7",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.010559936054050922,
+                "residual_x": 0.0011861079838126898,
+                "residual_y": 0.00038604167639277875,
+                "residual_z": 0.01048600859940052
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 941,
+            "id": "6784557559c755795640c7ab6602df7ee8ec25c9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.06189478561282158,
+                "residual_x": -0.04820826277136803,
+                "residual_y": 0.018600448966026306,
+                "residual_z": 0.03407273441553116
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 937,
+            "id": "67ace174e85c187f463fdf8394a8b32bfb3fa839",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.8113469481468201,
+                "residual_x": -0.12703199684619904,
+                "residual_y": 0.1141379177570343,
+                "residual_z": -0.7931703925132751
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 922,
+            "id": "683ca3014778526d0ba6f22e31e6ec3b33e8a918",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.21689604222774506,
+                "residual_x": -0.021379319950938225,
+                "residual_y": 0.07342179119586945,
+                "residual_z": -0.20296812057495117
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "6b370df4e92f5302020ef903d920e77faaac675f",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "6bfe77d403d5f03a957db6b7648dcd491e67ffc2",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1402,
+            "id": "6c8591477fe3c5371d20a2a038bf42bccb7ad3c1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.135976791381836,
+                "residual_x": -11.669285774230957,
+                "residual_y": -11.957974433898926,
+                "residual_z": 14.520196914672852
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "6dd1fd0698faebb05091c08cc00bb0f225cef0a1",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "6e1b96634249af9edeb296c8bbd78617eec58c65",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1338,
+            "id": "6e635a9dfad6a31f32d4c8cedded9261718b1cf3",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.234834671020508,
+                "residual_x": -8.311914443969727,
+                "residual_y": -5.789119720458984,
+                "residual_z": 16.351667404174805
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1317,
+            "id": "6e8651d61ff3095f28dcc49e7da0fecb3de8339c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9216098785400391,
+                "residual_x": 0.28770124912261963,
+                "residual_y": -0.23369307816028595,
+                "residual_z": 0.843789279460907
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1185,
+            "id": "6edd78d6116499c3dd6e68cf2802cfbb6a768861",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.019848337396979332,
+                "residual_x": 0.003764475230127573,
+                "residual_y": -0.0017316621961072087,
+                "residual_z": 0.0194109920412302
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "6fcd11cca22bf15b00715d7ff7982395a53b9fae",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "6ffa271850d3d96959b81ff00914f722336dbcb0",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 933,
+            "id": "700b4c1edf20f2684191da37fcf384e5fcb3983b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.5046725869178772,
+                "residual_x": -0.05259501188993454,
+                "residual_y": 0.020504754036664963,
+                "residual_z": -0.5015054941177368
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "723a431e6f87ffe9670d164b65d77d65af6450fd",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "72b75c9bf2ec3d90ebaf6a4448c3775a741b6723",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "73e694fcf231c6c76b7b069a886ef0b8c4289a10",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "748fb392cde47d3ca3841d3ac200a6157d5344d5",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "762e1ede31535ee8f9a51b5e5d0be57fc3dad23c",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1156,
+            "id": "7637fa050ffd795daefdd409ad4fedcb67cb3390",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.019088461995124817,
+                "residual_x": 0.0010249665938317776,
+                "residual_y": 0.0036155288107693195,
+                "residual_z": 0.01871488057076931
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1032,
+            "id": "76bf262cc9b78354a54198d1e341717d33b8d897",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.008864540606737137,
+                "residual_x": -0.0013613100163638592,
+                "residual_y": -0.008718830533325672,
+                "residual_z": -0.000841973174829036
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "76db723034d984159e2c16c600e1d1a7107b0ad7",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 657,
+            "id": "7772e2560b4da67e0affba5899472792b568d7fa",
+            "reconstructed": true,
+            "residual": {
+                "residual": 23.3427677154541,
+                "residual_x": -16.468339920043945,
+                "residual_y": -7.697227478027344,
+                "residual_z": 14.64346981048584
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1205,
+            "id": "78094dee12dda8a4730a291b41c7198804a7d335",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.15831394493579865,
+                "residual_x": -0.0462859682738781,
+                "residual_y": 0.07213600724935532,
+                "residual_z": -0.13310638070106506
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 881,
+            "id": "790674bfc24508c79f91a2070ad1bd326e19c117",
+            "reconstructed": true,
+            "residual": {
+                "residual": 23.234882354736328,
+                "residual_x": -16.427093505859375,
+                "residual_y": -7.450479507446289,
+                "residual_z": 14.645843505859375
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "794690b597b6469b3c0ed6ab082fe7d0f0b8262d",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "7969c655085aa29b8feec66da8502e75f2622993",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "7a30ab6861de1a1063ca1f2ed7dcc4b54b784810",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "7adbd7ea1a0e8e946914b2acec3d3098a07def34",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 779,
+            "id": "7b3e34ae1c97ed42b354bafb79428420dff2c1a3",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.006037053186446428,
+                "residual_x": -0.005258546210825443,
+                "residual_y": -0.002662436570972204,
+                "residual_z": 0.0013058087788522243
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 980,
+            "id": "7b5a704ab52f64b2c374639e6c6d75aed7d26073",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.017449164763092995,
+                "residual_x": 0.001520229852758348,
+                "residual_y": -0.008549023419618607,
+                "residual_z": -0.015135272406041622
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 956,
+            "id": "7bad6bae336676319149d68ca0339dcf07b85411",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.014865596778690815,
+                "residual_x": 0.0024358618538826704,
+                "residual_y": 0.0036888709291815758,
+                "residual_z": -0.014193124137818813
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "7eae07997d6c81b4136e698ff95f8a35f483803d",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 873,
+            "id": "7eb9bc4dcbd840da6087ee0260efb465ec0930bb",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.013003128580749035,
+                "residual_x": -0.004462360870093107,
+                "residual_y": -0.010763133876025677,
+                "residual_z": -0.005772663280367851
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "7ed04417047d4122eca58ff00996ae0da973cec3",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "7f55554571432765992aea3fdcedb5bf44328c3e",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "7fd1d180cfc0f06a832e4da95c78b6f8cc76b1b5",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1145,
+            "id": "7ff78d366436a4b42163683842ba52ccb36c9df6",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.11584797501564026,
+                "residual_x": -0.08610211312770844,
+                "residual_y": 0.07689116150140762,
+                "residual_z": 0.009743163362145424
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1353,
+            "id": "8122273c57c0703d6a2b2408a807dd90325b018d",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.978212356567383,
+                "residual_x": -13.173617362976074,
+                "residual_y": -11.793302536010742,
+                "residual_z": 14.67556095123291
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1258,
+            "id": "8281ed83f4d57789f14a424fa076afb365963aea",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.026410162448883057,
+                "residual_x": 0.004280877765268087,
+                "residual_y": -0.002083880826830864,
+                "residual_z": 0.02597745694220066
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1186,
+            "id": "8382096d03025f5023af0f25d97bd028f3263291",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.58359718322754,
+                "residual_x": -13.58570384979248,
+                "residual_y": -11.337526321411133,
+                "residual_z": 14.032390594482422
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1144,
+            "id": "8389465df4a884b0f2d8d04068fefe4bb7d73fab",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.1418579816818237,
+                "residual_x": 0.0682695284485817,
+                "residual_y": -0.04539188742637634,
+                "residual_z": 1.1389111280441284
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1070,
+            "id": "846967706d5f080cf5f3469d2d5660d9068ceb0c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.324248343706131,
+                "residual_x": 0.07829459011554718,
+                "residual_y": 0.011087678372859955,
+                "residual_z": -0.31445828080177307
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1135,
+            "id": "84cfeaae4136c825a157b2306f76f4cabf306f0b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.3877080976963043,
+                "residual_x": 0.017033439129590988,
+                "residual_y": -0.011590051464736462,
+                "residual_z": 0.3871603012084961
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "84fe3a4dd60376e8e65ac49139156275eaa27814",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "851f0c79b034ea263101ecef14facca4c17be477",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "8521496c68e18fd2638d392c085e9c08443f31b5",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1253,
+            "id": "859f452296fb36a2991c06de12ea93d8a69c26d5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.0185390617698431,
+                "residual_x": 0.0015744054690003395,
+                "residual_y": -0.005870385095477104,
+                "residual_z": 0.017514469102025032
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1015,
+            "id": "863d7d43493fd3057b50e264c680ae237ea8e3e2",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.899208068847656,
+                "residual_x": -6.274768829345703,
+                "residual_y": -13.121201515197754,
+                "residual_z": 13.580862998962402
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1020,
+            "id": "86dd3af3066d6f0c095aa7b800fb00a4a8b02299",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.00730606634169817,
+                "residual_x": -0.0020668639335781336,
+                "residual_y": -0.005575244314968586,
+                "residual_z": -0.004245389252901077
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "87aae39401e1b6d06a387b699cd30b234831ccdc",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 903,
+            "id": "8852e5d170a05be9653a4309aa19c30e235c852c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.17996010184288025,
+                "residual_x": -0.08108361065387726,
+                "residual_y": 0.021683773025870323,
+                "residual_z": -0.15918825566768646
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 958,
+            "id": "895438c6d96401960e11937850e9a90e5af372f1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.021445736289024353,
+                "residual_x": 0.003204332198947668,
+                "residual_y": 0.004009230528026819,
+                "residual_z": -0.02082253433763981
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 867,
+            "id": "89e4960e761e54f097103bcdf1779b5afdbcc115",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.5451404452323914,
+                "residual_x": 0.019321003928780556,
+                "residual_y": -0.07839000970125198,
+                "residual_z": 0.5391287207603455
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1189,
+            "id": "89f7cd782ad41384cc4686771dbb749225b8aebb",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.5371658802032471,
+                "residual_x": 0.059876494109630585,
+                "residual_y": 0.12778706848621368,
+                "residual_z": -0.5182976722717285
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1271,
+            "id": "8b8cca7618feb3a35e470b01ad8125d3a28f43ce",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.01991650089621544,
+                "residual_x": 0.0032356304582208395,
+                "residual_y": -0.004649653099477291,
+                "residual_z": 0.019093936309218407
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1093,
+            "id": "8bcf408db2e03fe201512fbd7d693b7503123ad4",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.39307403564453,
+                "residual_x": -6.920921802520752,
+                "residual_y": -13.564614295959473,
+                "residual_z": 13.563907623291016
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 983,
+            "id": "8c183bdebba93f2503b87447d80efc726a06b7df",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.1784929633140564,
+                "residual_x": 0.011946409940719604,
+                "residual_y": -0.01977413333952427,
+                "residual_z": -0.1769915372133255
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "8ca1ee0c18a85b8ead6638a62707771133daf628",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1543,
+            "id": "8f03633952fd3ddb877a86eff9e65a61d8a3be42",
+            "reconstructed": true,
+            "residual": {
+                "residual": 21.397048950195313,
+                "residual_x": -16.21250343322754,
+                "residual_y": -8.896931648254395,
+                "residual_z": 10.76257610321045
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 992,
+            "id": "920c95a4f0b792cc7ceb639342cd67cc27624a10",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.021607249975204468,
+                "residual_x": 0.0033261084463447332,
+                "residual_y": -0.00898293312638998,
+                "residual_z": -0.019367942586541176
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "92815869132ea97d6675dc33da39591ad60fada4",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 977,
+            "id": "932920ef6502ac06d387019ff20138c1a35ce0c5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.8943893909454346,
+                "residual_x": -0.16354288160800934,
+                "residual_y": 0.1159832775592804,
+                "residual_z": -0.8716272115707397
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1425,
+            "id": "950b0fa5df7b5890e052a13ae555b320e2912205",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.763383865356445,
+                "residual_x": -8.053512573242188,
+                "residual_y": -13.068276405334473,
+                "residual_z": 13.981386184692383
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "95537f00136cd687b36a00051de3051b67cf6a56",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1217,
+            "id": "956bf28c0de5ef81f07968a3faa2f0fccfceed69",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9228857159614563,
+                "residual_x": -0.14559240639209747,
+                "residual_y": 0.07941822707653046,
+                "residual_z": -0.90786212682724
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1250,
+            "id": "959bb000f93a117b6672ffc01a5288341d895352",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.28993797302246,
+                "residual_x": -8.479961395263672,
+                "residual_y": -5.794673919677734,
+                "residual_z": 16.328310012817383
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "9652d357aa8026b5efe7e60d11160dd17a0313cc",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1088,
+            "id": "96556ca51f05951d5fb0a928b9cd5ec209d3a642",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.010442068800330162,
+                "residual_x": -0.003058183239772916,
+                "residual_y": -0.007512147072702646,
+                "residual_z": -0.006576622370630503
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1287,
+            "id": "9967a506ac66d4fbf82acfa2b1f1dbeba66ab473",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9876955151557922,
+                "residual_x": 0.10265747457742691,
+                "residual_y": -0.21074245870113373,
+                "residual_z": 0.9594746232032776
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "9a9c36f5b96fba094f8e7b7781fbb479887ffd83",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "9aefc54295febc7dc802bbc8e62749d4af7e637f",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1056,
+            "id": "9bbec756fd627a756b3ba799b9a536fb3fcc0f9a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.3334437906742096,
+                "residual_x": -0.1292344033718109,
+                "residual_y": 0.04406534507870674,
+                "residual_z": 0.30420631170272827
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "9c43295fb145b4b4af49f85e357a385f7c74b42d",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "9d46d2ea2302e578857f768c1ef84f895bee7aae",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1073,
+            "id": "9d5bdbe568cbd4a5a579fbe2811f2c76d1054cb5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.4687974452972412,
+                "residual_x": -0.07877084612846375,
+                "residual_y": -0.00837680883705616,
+                "residual_z": 0.46205630898475647
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1667,
+            "id": "9d6be9b8e9369a3dbcfa5650e675477ce8a3f0db",
+            "reconstructed": true,
+            "residual": {
+                "residual": 23.798559188842773,
+                "residual_x": -17.174270629882813,
+                "residual_y": -9.67589282989502,
+                "residual_z": 13.333903312683105
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1277,
+            "id": "9e7d4f158b08ce7063144b15d3e75366b8c0bdf1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.12839123606681824,
+                "residual_x": 0.02603534422814846,
+                "residual_y": -0.0569939911365509,
+                "residual_z": -0.11206317692995071
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "9e88cd1a1a0db2357f1fbaa5bddd4916aaaa4ce0",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "9ec4e56774f2bbb64e3713274ad2883156292af9",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 944,
+            "id": "9ee6257fd7972f436757fc154b8709e0e0293b3a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.2999490201473236,
+                "residual_x": 0.04105417802929878,
+                "residual_y": 0.009633085690438747,
+                "residual_z": -0.2969699800014496
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1027,
+            "id": "9fdf21568f20f5d99f027fb38bc3b8a250b43fbb",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.01598791405558586,
+                "residual_x": 0.0011939568212255836,
+                "residual_y": 0.004620022606104612,
+                "residual_z": -0.01525920256972313
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "9fe8dcd1a1906ffce80383aeaf9cbfaa3b87d5fd",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "a0da200f7bc7f6ef5cf1ed7fd4edc4e784ff2ae3",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "a24a6c0dcc41d815849913717bba08b371ce5f9c",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 959,
+            "id": "a26147ab22d4c4a0e2a428ef5e326ad70ad4a79c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.37914586067199707,
+                "residual_x": 0.007584067527204752,
+                "residual_y": -0.026876630261540413,
+                "residual_z": 0.37811601161956787
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "a2f8a9e2de6720ed6fb640c58fbe67008918c11f",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "a33fabf7b4a3a45b5a97a343abb2c91b11ce1f1d",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "a34bd2dafc57e88f30c7883d1addfcbdc6d6af11",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1493,
+            "id": "a369d43a6857e5742088bad55dcc3e0ceff861d7",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.7091411352157593,
+                "residual_x": -0.12499058246612549,
+                "residual_y": 0.14870695769786835,
+                "residual_z": -0.6820152401924133
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 866,
+            "id": "a3a31b5721880c4970b5e352b6b379e74defbf31",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.015212811529636383,
+                "residual_x": -0.004190509207546711,
+                "residual_y": -0.0018693448510020971,
+                "residual_z": -0.014504303224384785
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1161,
+            "id": "a4c1ff7117f697e35db9215d80d9c6c085501f4c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.714536666870117,
+                "residual_x": -13.275806427001953,
+                "residual_y": -10.954962730407715,
+                "residual_z": 14.82200813293457
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "a528c876e33d12068802d97f44c623e2e4767faa",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "a705e6b18e25e99fc9af79dda0142153d6e3742f",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1804,
+            "id": "a78f9bfc4bda7588ed5dd2b66a4e6a2bb217f5a6",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9236912727355957,
+                "residual_x": 0.0850129947066307,
+                "residual_y": 0.04190593212842941,
+                "residual_z": 0.9188156723976135
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 707,
+            "id": "a8d07b6f7213fd358969c17941a909bbe8ac19b2",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.014593200758099556,
+                "residual_x": 0.00601262366399169,
+                "residual_y": 0.0077877286821603775,
+                "residual_z": 0.010777807794511318
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "a948bd8ae773165aba71f2c524d7b247a6ac5378",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "aa5f31bc58f836524a4ed80401f059d4e4e291dd",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "aa9d15961c3d8703e6f76b5d05f2f789cac6c97d",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "aa9d5aab9700f14dac8c7ac1a8c7024be0512da6",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 964,
+            "id": "aac582a3480736ffaf8a08a49cf55c9a3ff9b70c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.2636774182319641,
+                "residual_x": 0.05816270038485527,
+                "residual_y": 0.05710141360759735,
+                "residual_z": -0.2507634460926056
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1394,
+            "id": "ab3c6f2f473bad14a9d37942c28f2bfdea33d1ab",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.747987747192383,
+                "residual_x": -9.246609687805176,
+                "residual_y": -6.470661640167236,
+                "residual_z": 16.20536231994629
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "ab719f62bffe50b5acf207d875517ef26a23c21c",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 919,
+            "id": "ab75020098f6bdf1befe9607fe76b802cea5f3cc",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.58285903930664,
+                "residual_x": -13.383756637573242,
+                "residual_y": -11.081716537475586,
+                "residual_z": 14.424151420593262
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "ac772c8092ca93438491d11d0d869fe6ee0442a8",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 644,
+            "id": "acd4836ffe283fd14a8c6fe3454a13a3a8ec902f",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.018973512575030327,
+                "residual_x": -0.000751520914491266,
+                "residual_y": 0.018541324883699417,
+                "residual_z": 0.003955838270485401
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 994,
+            "id": "acfe3b1871b1ab71f1c31c658c6bb0e2db65687f",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.014552328735589981,
+                "residual_x": 0.0028569072019308805,
+                "residual_y": -0.007527209352701902,
+                "residual_z": -0.012122271582484245
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1569,
+            "id": "ae042dd03e510604f2a4fd8cfad0d1098b467a4d",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.786460876464844,
+                "residual_x": -7.999578475952148,
+                "residual_y": -12.129853248596191,
+                "residual_z": 13.430466651916504
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "aeb1e7914eacfbb420e1d6e75409bdc9b4d4da38",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1156,
+            "id": "b083d1a8cafac52c0e4413448dca37fee896ab35",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.15954777598381042,
+                "residual_x": -0.02776070311665535,
+                "residual_y": 0.15564720332622528,
+                "residual_z": 0.021419253200292587
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1463,
+            "id": "b16a5eed309d28adf073cc5d1ec7b217d1a88c99",
+            "reconstructed": true,
+            "residual": {
+                "residual": 24.43475914001465,
+                "residual_x": -17.77468490600586,
+                "residual_y": -9.469058990478516,
+                "residual_z": 13.836725234985352
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1079,
+            "id": "b1d96da6c87afc8bcc118c427d1755d58356f34c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9133410453796387,
+                "residual_x": 0.21191361546516418,
+                "residual_y": -0.00021395371004473418,
+                "residual_z": 0.8884168267250061
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1362,
+            "id": "b30149c49e2638b6f26174464d64da62225d1b32",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.03227996826172,
+                "residual_x": -8.192281723022461,
+                "residual_y": -5.826712608337402,
+                "residual_z": 16.16055679321289
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1179,
+            "id": "b322a79e9d12d54c2bcb44e8e66b89f35ccf89c3",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.019986364990472794,
+                "residual_x": 0.003992726560682058,
+                "residual_y": 0.0020673798862844706,
+                "residual_z": 0.019474055618047714
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "b367e12b147a274f0af0e582c9ed06a4929197a0",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1374,
+            "id": "b422b26747ff1eb47f7ec747c8976161bc85b1e8",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.28160858154297,
+                "residual_x": -8.78669261932373,
+                "residual_y": -6.034430027008057,
+                "residual_z": 16.06736183166504
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1325,
+            "id": "b56b6cb1e94e7cc2be1a609b491319e71d4eae0b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.867830276489258,
+                "residual_x": -13.330153465270996,
+                "residual_y": -11.162199974060059,
+                "residual_z": 14.854290008544922
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "b5ae5f201f4a110b7d420d597de430414942767f",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "b67826612f497134c8782260a5da5f63b4e01c0d",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1040,
+            "id": "b771ff7fa1f4ba1f39dc4474ad9bad26ea6109cc",
+            "reconstructed": true,
+            "residual": {
+                "residual": 18.81551742553711,
+                "residual_x": -7.869325160980225,
+                "residual_y": -5.671514511108398,
+                "residual_z": 16.122386932373047
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1124,
+            "id": "b7c7b73c9ae6ea6e0ed2a2cf413a29e2ed203366",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.00306226615794003,
+                "residual_x": -0.0008093659416772425,
+                "residual_y": 0.0012041943846270442,
+                "residual_z": 0.0026967234443873167
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1169,
+            "id": "b83e369939278ab62b33271511482766930781d5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.0624675750732422,
+                "residual_x": 0.03812100365757942,
+                "residual_y": 0.17730364203453064,
+                "residual_z": -1.0468751192092896
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1101,
+            "id": "b872895ee1ae9210d5a50e8185944d380d1fc593",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.4221896231174469,
+                "residual_x": 0.07504144310951233,
+                "residual_y": -0.022948699072003365,
+                "residual_z": -0.4148327708244324
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1575,
+            "id": "b8757a512c2fc26b94693701549388f5b8ffdae1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.182771682739258,
+                "residual_x": -8.244266510009766,
+                "residual_y": -5.710379600524902,
+                "residual_z": 16.352441787719727
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "b907dc3d76e6d3ba11551ecc1332c85b7e9f1255",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "b9790a5daed35b5c3bde11d36203447517a0aef8",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 93,
+            "id": "b990c81cc46e9b7bf13098753f300eda5e2aed1a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 21.65271759033203,
+                "residual_x": -12.887203216552734,
+                "residual_y": -8.652798652648926,
+                "residual_z": 15.095999717712402
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1435,
+            "id": "b9a279924ffab1d453f9cbe87f3e36d2d013e131",
+            "reconstructed": true,
+            "residual": {
+                "residual": 21.232664108276367,
+                "residual_x": -10.087235450744629,
+                "residual_y": -12.137002944946289,
+                "residual_z": 14.2044677734375
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1496,
+            "id": "ba056d212cf5639bd35e384acbffea1aa1c44be6",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6831657290458679,
+                "residual_x": -0.12641654908657074,
+                "residual_y": 0.11506716161966324,
+                "residual_z": -0.6614331603050232
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "ba361f3d3794ff9cc31d8ad2bc7914ee404852e5",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1309,
+            "id": "ba36c7320fc48b3dc2cd930367c96c713dd8de2e",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.251310348510742,
+                "residual_x": -8.368621826171875,
+                "residual_y": -5.800374507904053,
+                "residual_z": 16.338136672973633
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 986,
+            "id": "ba739413272564df1c2f7ad56ccf736ff372dcb9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.26813289523124695,
+                "residual_x": 0.08607597649097443,
+                "residual_y": -0.21384179592132568,
+                "residual_z": 0.13695937395095825
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "bae2e49ff7957b76af8256ad0a698fd439566b2a",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "bd15fd69fa429201629eb8ce71a904233757df1e",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1357,
+            "id": "be4ee6184c68ef05c545b756cd9882c4d3f337e3",
+            "reconstructed": true,
+            "residual": {
+                "residual": 21.186782836914063,
+                "residual_x": -14.75368595123291,
+                "residual_y": -8.411259651184082,
+                "residual_z": 12.667250633239746
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "bf15f43c8889de153649f93893a47f473ca2f057",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1128,
+            "id": "c01bacb9dc8dd326dcf261fe356fae89e8e0e9df",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.3056931793689728,
+                "residual_x": -0.160949245095253,
+                "residual_y": 0.11007863283157349,
+                "residual_z": 0.23542800545692444
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 928,
+            "id": "c05c155508755d4a77a4588ec595f60ddb018231",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.02974405698478222,
+                "residual_x": -0.004980644676834345,
+                "residual_y": 0.010797874070703983,
+                "residual_z": -0.02726367674767971
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 754,
+            "id": "c064770b63320638295b787d3c341ed9e6034995",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.026559779420495033,
+                "residual_x": -0.011733087711036205,
+                "residual_y": 0.010361975058913231,
+                "residual_z": -0.021456608548760414
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c1096a72c6f86546a707cac673dfa7b58225f012",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c19112a347c2f812e6da1351cd1a329a6fee035b",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 711,
+            "id": "c1b10ebd1d2f7c55fb3df20a419c0510e004f379",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.009594816714525223,
+                "residual_x": 0.00040304806316271424,
+                "residual_y": 0.0017042318359017372,
+                "residual_z": 0.009433644823729992
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1135,
+            "id": "c1bd04a74123a8e7da5bcce1941ae1664a946045",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.70102882385254,
+                "residual_x": -13.542156219482422,
+                "residual_y": -11.866257667541504,
+                "residual_z": 13.825287818908691
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1111,
+            "id": "c208b5b5a6ba7c00ca3ea29fa08b0dabb38171c0",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.0529041290283203,
+                "residual_x": 0.21284766495227814,
+                "residual_y": -0.06626532971858978,
+                "residual_z": 1.0290343761444092
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1193,
+            "id": "c20a47afd05ba24594a6797ed78d53a67652399d",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.755502700805664,
+                "residual_x": -13.798998832702637,
+                "residual_y": -11.649438858032227,
+                "residual_z": 13.845255851745605
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c26cc987ba9527f74ba7d5a00d252b7d94ed9e2a",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c29a9eab02f677522e6ac3da96d70e8b6f9f5451",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1254,
+            "id": "c2a05d0c1c5df55659b23c7c816924c50ace0064",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.3779919147491455,
+                "residual_x": -0.07042593508958817,
+                "residual_y": 0.14949315786361694,
+                "residual_z": -0.3399556577205658
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c35ff93b9c78277e252491b3ea51e096c4b16571",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c3fc63d5f2621b40342eb0994085c0b2429962ee",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c462024a908474c989ff5fc88f114139017a358b",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 771,
+            "id": "c568ffb90b0c84f4c023a1015b46cfd29e537a91",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.06393175572156906,
+                "residual_x": -0.05388469994068146,
+                "residual_y": 0.03239426389336586,
+                "residual_z": -0.011589672416448593
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c6e7a52e1ab51461c5306aeb49841f7d02c42c42",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c81e7a6c502ab3e1305b35804975b535efc3f2af",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "c83a3944fd74e6bd9479cace57b05c4bc83b1d06",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "caeb6a99b6cc7b4c0c3e724bec1816d458cc7f6c",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1435,
+            "id": "cb08fb759a4eae866e56e2a2f2304f968eaa4bf7",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.0876508951187134,
+                "residual_x": 0.46065714955329895,
+                "residual_y": -0.269952654838562,
+                "residual_z": 0.9475784301757813
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 935,
+            "id": "cb8e057c772360a8490a9d0546926e9ef6580b38",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6052801012992859,
+                "residual_x": 0.0843179002404213,
+                "residual_y": -0.2586106061935425,
+                "residual_z": 0.5407171845436096
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1153,
+            "id": "cc6d5438985d3e735cb6212e8e97ce9a5a7e2b08",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.031008446589112282,
+                "residual_x": 0.005254923831671476,
+                "residual_y": -0.005466205067932606,
+                "residual_z": 0.030067093670368195
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "cd5e02d8b881bded198e9fc8c96232cb620dc332",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "cd60cc15c538c9751fc671b9fe81e88a94e40953",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 842,
+            "id": "ce1407311d0211582260a6d5792284333326ff3e",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.0404580719769001,
+                "residual_x": -0.011144918389618397,
+                "residual_y": 0.015166345052421093,
+                "residual_z": -0.03581380099058151
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1146,
+            "id": "ce45441f5e5dc1e789f39bcfbae1b1168d4a3c3c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.008471387438476086,
+                "residual_x": 0.002364150248467922,
+                "residual_y": -0.006726402323693037,
+                "residual_z": 0.00457500945776701
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 913,
+            "id": "ce48ec0d2febbc4713e5f1b207d8be6689d5e0f5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.02315002679824829,
+                "residual_x": 0.0031497925519943237,
+                "residual_y": -0.006038544699549675,
+                "residual_z": -0.022125517949461937
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1094,
+            "id": "cfdb351f99ddd352d7a1aa7207e72a7f2e0f5ec3",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.004346123430877924,
+                "residual_x": -0.001772609306499362,
+                "residual_y": -0.003965998068451881,
+                "residual_z": -0.00013230336480773985
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "cfdffee836def8b2fa32062ba7eb903490822bb0",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "d03662a9ec2f232e4e5bfee1d46a59ccef2f2895",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1237,
+            "id": "d0a4a2efb894f6d60dcb9565874b890fd08bca7c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.800914764404297,
+                "residual_x": -13.785771369934082,
+                "residual_y": -11.77295970916748,
+                "residual_z": 13.828651428222656
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 667,
+            "id": "d11e5f8a1059ec10328ff8010ecdb7256b9a91a1",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.013067521154880524,
+                "residual_x": -0.005311240907758474,
+                "residual_y": 0.0014536026865243912,
+                "residual_z": -0.011850648559629917
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1343,
+            "id": "d1a46799c346f052a540d6460babdacc7ad27ef9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.5155462026596069,
+                "residual_x": -0.09451726078987122,
+                "residual_y": 0.15403319895267487,
+                "residual_z": -0.48283344507217407
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "d1e1f2d984d6fcdf2d7cab7af6af678a81ab18d4",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "d20eaaca1130265cf16181f559899a185055a61f",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "d3956edfa440e550f38883a972340b4316cc314f",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "d43d8c5006a93d1727d7e69962428b0ef55fbfed",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "d58d8d5ed6abac1c9b525c22d229bdd1e94f8dca",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1207,
+            "id": "d5aeed237aa40dc69d526f2917e737df2a2f49f9",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.023666059598326683,
+                "residual_x": -0.0008160045254044235,
+                "residual_y": 0.0006489928346127272,
+                "residual_z": 0.02364308200776577
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 793,
+            "id": "d7b4041089552cc26dd12d148f06907ba319d8da",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.012488647364079952,
+                "residual_x": -0.007946496829390526,
+                "residual_y": -0.001709829899482429,
+                "residual_z": -0.009481349028646946
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1059,
+            "id": "d8156760debace3de4b99bdc86bfad6cbd8b34bd",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.00784335844218731,
+                "residual_x": -0.00203979411162436,
+                "residual_y": -0.007459563203155994,
+                "residual_z": -0.0013085950631648302
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 922,
+            "id": "d8a3ec91e2fef4b3fa065bbfa2283db0bba617cb",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.02745107188820839,
+                "residual_x": -0.0003010814543813467,
+                "residual_y": 0.007882640697062016,
+                "residual_z": -0.02629324421286583
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1157,
+            "id": "d9292a4f9510672b27b0416db33366d1555f391b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.01572883315384388,
+                "residual_x": 0.0028899109456688166,
+                "residual_y": -0.0008574497769586742,
+                "residual_z": 0.015437272377312183
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "d95aa7fef52db84c82549c8a2e78abd7a95182a4",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1250,
+            "id": "d9b76296dbf3391a5bf68c3eb1dcb953638d5ef6",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.832380294799805,
+                "residual_x": -13.717815399169922,
+                "residual_y": -8.61913013458252,
+                "residual_z": 13.09657096862793
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1444,
+            "id": "da012e69310e3d99f39e6f0922b9ea03e16805ad",
+            "reconstructed": true,
+            "residual": {
+                "residual": 20.126123428344727,
+                "residual_x": -8.625776290893555,
+                "residual_y": -12.419909477233887,
+                "residual_z": 13.28166675567627
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1496,
+            "id": "daa8bfd36301fd49a4a2f7d1dbeccf1757111866",
+            "reconstructed": true,
+            "residual": {
+                "residual": 19.836549758911133,
+                "residual_x": -7.984396457672119,
+                "residual_y": -12.00877857208252,
+                "residual_z": 13.620841026306152
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "dc18b4b7a9c915930077c6000003cb17a90c15cc",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "dd0bc57a4350dfb83555a2249d73afa41c2c4a8d",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1832,
+            "id": "dd4d5cb6aa8b42ba3ca8f16f9a0e83357872dabf",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.0139459371566772,
+                "residual_x": 0.10318092256784439,
+                "residual_y": 0.09570316970348358,
+                "residual_z": 1.0041319131851196
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "de285c288dd05fd1c36ff313265d288dc5e6b6f7",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1272,
+            "id": "de2883690d70b2f762d25b1abf6f0a33e0ce6259",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.0158249139785767,
+                "residual_x": 0.40991801023483276,
+                "residual_y": -0.25343671441078186,
+                "residual_z": 0.8942244052886963
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "e1477c7dc351cd43a789820641b03680e3ec838b",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1178,
+            "id": "e246d241dd108d31f9ffb0c6b6cb4d013edad7e8",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.03148844093084335,
+                "residual_x": -0.0002535685198381543,
+                "residual_y": 0.0004583671397995204,
+                "residual_z": 0.03148408234119415
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "e40222af7e78cc259bf2e8d47591dbd01fe74454",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1391,
+            "id": "e4e41448d0858bcfd2a6ccb8379feec037005ef5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 21.523761749267578,
+                "residual_x": -16.101545333862305,
+                "residual_y": -8.722129821777344,
+                "residual_z": 11.310924530029297
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1201,
+            "id": "e4ef984aabae01c5e0ebcda04c2a7128b3ab6cad",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.015979992225766182,
+                "residual_x": 0.002226771553978324,
+                "residual_y": -0.00767606170848012,
+                "residual_z": 0.013837620615959167
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "e558e6ba6b85f08128092332136c9c7b6793f9b5",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "e692e49b95b5debc6dc06839ca7ab5bf92b300e2",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1547,
+            "id": "e81093829f0e95ab1246e17bd0215a0eabc04e82",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9815470576286316,
+                "residual_x": 0.28876662254333496,
+                "residual_y": -0.13675877451896667,
+                "residual_z": 0.9280869960784912
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 600,
+            "id": "e93c6143413699379d2f1fd368be80b1443fd1a7",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.023884814232587814,
+                "residual_x": -0.00038531061727553606,
+                "residual_y": 0.02381249889731407,
+                "residual_z": -0.0018167935777455568
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "e9709fe708ef5d28cfd0026d877fc57fcddbaac6",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1069,
+            "id": "e98261d12ea33716e8d926b37dbf9b94a91da280",
+            "reconstructed": true,
+            "residual": {
+                "residual": 18.858652114868164,
+                "residual_x": -7.996400833129883,
+                "residual_y": -5.583731651306152,
+                "residual_z": 16.140888214111328
+            },
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "e9eb3051f57f61ce80ef2e084866def6a0370a8e",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 853,
+            "id": "ea4db1a837db9a705dadb0692046297677f44025",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.3498460054397583,
+                "residual_x": 0.33404868841171265,
+                "residual_y": -0.16843189299106598,
+                "residual_z": -1.2969682216644287
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1122,
+            "id": "ea8089d083c0dee5602aef78d6ed5335e4a082a5",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.5256622433662415,
+                "residual_x": 0.28426575660705566,
+                "residual_y": -0.22492346167564392,
+                "residual_z": -0.38068780303001404
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "eab0e69b6a08b114aea7d675c81127c047e4b2b6",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 646,
+            "id": "eaeb0e49927c851ddc3f9552d5601afd6fc11972",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.44144412875175476,
+                "residual_x": 0.061349187046289444,
+                "residual_y": -0.2389049381017685,
+                "residual_z": 0.3661060333251953
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "ebeed94e057d368493b4f8870c3b48f6529a0017",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "ec4fe3f81532873d9a5ba4ea335c468dab8450f9",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1071,
+            "id": "ed42e200dad6e576ea926067b4042be293d2164b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.30612486600875854,
+                "residual_x": -0.14851218461990356,
+                "residual_y": 0.09819812327623367,
+                "residual_z": 0.24902549386024475
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1240,
+            "id": "edb3857daa906957c33f9d1fe7c6004d65d06c14",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.12425268441438675,
+                "residual_x": 0.013125978410243988,
+                "residual_y": -0.11369220912456512,
+                "residual_z": -0.04837891831994057
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "ee44be50ecd135ac82fb6891ba7d035e0ffb1d69",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "f09eaaf775ebf5b34229c4229da43d73e20f2b48",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 603,
+            "id": "f140fb54c0e45b3af6d281a063eb4ccc4b0e2f05",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.9508265852928162,
+                "residual_x": -0.06109869107604027,
+                "residual_y": 0.036653801798820496,
+                "residual_z": 0.9481532573699951
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1070,
+            "id": "f1556d74e56fc1d7c2b4b597d3d7b3217a045b5a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.0074706487357616425,
+                "residual_x": 0.0049920519813895226,
+                "residual_y": 0.0007518354104831815,
+                "residual_z": -0.005506791640073061
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "f1643874606a14b5f4860f3da254134307ac827a",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 877,
+            "id": "f1b722fc0138feaefdbc6a414dcebb71a6b7d5fa",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.1566680669784546,
+                "residual_x": -0.11927291005849838,
+                "residual_y": 0.05212566629052162,
+                "residual_z": -0.08718813955783844
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1270,
+            "id": "f1fe3fa124dea76b970ab526621dce2ac1977c93",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.5700758099555969,
+                "residual_x": 0.4007101356983185,
+                "residual_y": -0.35510942339897156,
+                "residual_z": -0.19574253261089325
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 840,
+            "id": "f22e62c82906123606d43462f91b4f48303f8b9b",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.009545720182359219,
+                "residual_x": -0.004630475305020809,
+                "residual_y": -0.00315562030300498,
+                "residual_z": 0.007727970834821463
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "f237a6ef8e68c6b9012484a9834c93bce5b68aa1",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1411,
+            "id": "f2736c68149a7ca404725bf50c45de2fd2feb7a4",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.1676524877548218,
+                "residual_x": -0.15191470086574554,
+                "residual_y": 0.15137183666229248,
+                "residual_z": -1.147789478302002
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "f2da36241c36ca53ae1a11b617453285aacf201b",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "f83cdb2d80c74d8ab8b374fd03e158cb37b1c49a",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "f854559e66adff7c9adc6c092820ebc024e5f91b",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1174,
+            "id": "f85c210366b9f9cc3de3f64d5ed0edd95b971a06",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.6520422697067261,
+                "residual_x": 0.0592474527657032,
+                "residual_y": 0.18219289183616638,
+                "residual_z": -0.6232612729072571
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1249,
+            "id": "f8bf38547cbcada0a6c74a269c5733ce4cdbcb6c",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.33249107003211975,
+                "residual_x": 0.09183492511510849,
+                "residual_y": -0.027452124282717705,
+                "residual_z": -0.3183756172657013
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1187,
+            "id": "f8ec4d38b7b0799de832cb286a35f271bcd24b02",
+            "reconstructed": true,
+            "residual": {
+                "residual": 0.006575984880328178,
+                "residual_x": 0.000431712280260399,
+                "residual_y": -0.005157205276191235,
+                "residual_z": 0.004057146143168211
+            },
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "f9213cc9654f5e1598999301c0b708c540bf65e8",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "f9b72f2574bd47dc44c9af2e313f8709205dc2e1",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 1085,
+            "id": "f9df1ff8fe6dd2f60ae1578c3e23b9fe7985893a",
+            "reconstructed": true,
+            "residual": {
+                "residual": 22.789339065551758,
+                "residual_x": -13.58907699584961,
+                "residual_y": -11.925419807434082,
+                "residual_z": 13.873547554016113
+            },
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "fb61a7cd32e390636d77b946935ac29aecd06782",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "fc040c0e402370f4ad116fb199ce250cbeb4d9ca",
+            "reconstructed": false,
+            "rtk flag": "NONE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "fc16a2af5982ed058a7a229de3120aaeda638dd4",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "fc2a501a2675079e485e264983a99c87a3f9dde7",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "fcd29fc2a0bf0229f030da6da6e11fd416a78be9",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "fd62f5da846dea44fc81fc816c549bffe7eca4c4",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "fef2838802dab59c2b00fe3fb9c053cd597b58e9",
+            "reconstructed": false,
+            "rtk flag": "SINGLE"
+        },
+        {
+            "dewarped": false,
+            "features count": 0,
+            "id": "ff3a7fc7ec682521b81d8df36edb4362e88d491b",
+            "reconstructed": false,
+            "rtk flag": "NARROW_INT"
+        },
+        {
+            "dewarped": false,
+            "features count": 1416,
+            "id": "ffccebea12ed0678fc00fc930a56eaa5a2913e62",
+            "reconstructed": true,
+            "residual": {
+                "residual": 1.0531959533691406,
+                "residual_x": 0.46540889143943787,
+                "residual_y": -0.23542052507400513,
+                "residual_z": 0.9149827361106873
+            },
+            "rtk flag": "NARROW_INT"
+        }
+    ],
+    "images number": 386,
+    "images reconstructed": 226,
+    "object distance": 100.0,
+    "observation count": 257774,
+    "point color": "3 bands, uint8",
+    "ppk flag": {
+        "NONE": 0
+    },
+    "reprojection error": 0.9899740356100832,
+    "rtk flag": {
+        "NARROW_INT": 218,
+        "NONE": 28,
+        "SINGLE": 140
+    },
+    "rtk std": {
+        "horizontal": {
+            "max": 45.03705565856854,
+            "mean": 4.288271682717159,
+            "min": 0.011763473126589782
+        },
+        "vertical": {
+            "max": 113.81977,
+            "mean": 14.38021227979275,
+            "min": 0.02428
+        }
+    },
+    "run as cluster": false,
+    "sfm components": [
+        {
+            "images number": 160,
+            "kept": true
+        },
+        {
+            "images number": 135,
+            "kept": false
+        },
+        {
+            "images number": 66,
+            "kept": true
+        },
+        {
+            "images number": 24,
+            "kept": false
+        }
+    ],
+    "sfm run time": 383131,
+    "stereo mode": false,
+    "track count": 47894,
+    "use image position": true,
+    "use wallis": false,
+    "xy georeferencing rmse": 7.84043550491333
+}

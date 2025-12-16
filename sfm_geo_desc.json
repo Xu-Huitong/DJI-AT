@@ -1,0 +1,19 @@
+{
+    "cs_type": "LOCAL_ENU_CS",
+    "offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "ref_GPS": {
+        "altitude": 23.358,
+        "latitude": 22.79070098,
+        "longitude": 113.6046681
+    },
+    "rvec": [
+        -0.0,
+        0.0,
+        -0.0
+    ],
+    "scale": 1.0
+}
